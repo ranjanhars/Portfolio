@@ -9,7 +9,7 @@ menuIcon.onclick=() =>{
 
 if (!menuIcon || !navbar) {
     console.error("Menu icon or navbar not found.");
-    return; // or handle the case when elements are not found
+    
 }
 
 // scroll section active link
